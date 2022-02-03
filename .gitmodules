@@ -1,3 +1,6 @@
 [submodule "Project-Banco-Digital"]
 	path = Project-Banco-Digital
 	url = https://github.com/Danimdf/Banco-Digital-com-Java.git
+[submodule "Lab-padroes-projeto-dio"]
+	path = Lab-padroes-projeto-dio
+	url = https://github.com/Danimdf/Lab-padroes-projeto-dio.git
