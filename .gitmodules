@@ -4,3 +4,6 @@
 [submodule "Lab-padroes-projeto-dio"]
 	path = Lab-padroes-projeto-dio
 	url = https://github.com/Danimdf/Lab-padroes-projeto-dio.git
+[submodule "Desafio-Poo-Dio"]
+	path = Desafio-Poo-Dio
+	url = https://github.com/Danimdf/Desafio-Poo-Dio.git
